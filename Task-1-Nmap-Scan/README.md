@@ -1,1 +1,1 @@
-# Task 1 - Basic Network Scanninf Using Nmap
+# Task 1 - Basic Network Scanning  Using Nmap
